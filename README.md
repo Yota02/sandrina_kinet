@@ -60,6 +60,18 @@ npm run build
 ```
 Les fichiers statiques optimisés sont générés dans le dossier `dist/`.
 
+### 3. Déployer sur GitHub Pages
+
+#### Option A — Déploiement automatique en 1 commande :
+```bash
+npm run deploy
+```
+*Ce script compile le projet, prépare les fichiers `404.html` et `.nojekyll` (nécessaires pour le routage SPA sur GitHub Pages) et publie automatiquement le dossier `dist` sur la branche `gh-pages`.*
+
+#### Option B — Déploiement continu via GitHub Actions (inclus) :
+Le fichier [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) est déjà configuré. Dès que vous poussez sur la branche `main` de votre dépôt GitHub, le site se déploie automatiquement sur GitHub Pages.
+*(Pensez simplement à activer GitHub Pages dans les paramètres de votre dépôt GitHub : **Settings > Pages > Build and deployment > Source : GitHub Actions**).*
+
 ---
 
 ## 📁 Comment ajouter ou modifier une œuvre ?

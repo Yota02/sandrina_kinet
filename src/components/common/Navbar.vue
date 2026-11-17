@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref, onMounted, onUnmounted } from 'vue';
 import { useRoute } from 'vue-router';
-import { Menu, X, Sparkles } from 'lucide-vue-next';
+import { Menu, X } from 'lucide-vue-next';
 
 const route = useRoute();
 const isScrolled = ref(false);
@@ -71,14 +71,6 @@ onUnmounted(() => {
             class="absolute bottom-0 left-0 w-full h-[1.5px] bg-gold transition-all"
           />
         </router-link>
-
-        <router-link
-          to="/contact"
-          class="inline-flex items-center gap-1.5 px-4 py-2 border border-gold/40 text-gold hover:bg-gold hover:text-white rounded-sm text-xs uppercase tracking-widest transition-all duration-200"
-        >
-          <Sparkles class="w-3.5 h-3.5" />
-          <span>Acquisition</span>
-        </router-link>
       </nav>
 
       <!-- Mobile Menu Toggle -->
@@ -120,16 +112,6 @@ onUnmounted(() => {
         >
           {{ item.name }}
         </router-link>
-
-        <div class="pt-4 border-t border-stone-subtle">
-          <router-link
-            to="/contact"
-            @click="isMobileMenuOpen = false"
-            class="block w-full text-center py-3 bg-ink-900 text-paper-100 uppercase text-xs tracking-widest hover:bg-gold transition-colors rounded-sm"
-          >
-            Se renseigner / Acquérir une œuvre
-          </router-link>
-        </div>
       </div>
     </transition>
   </header>
