@@ -83,7 +83,7 @@ function resetFilters() {
         Œuvres & Créations Picturales
       </h1>
       <p class="text-ink-700 leading-relaxed text-sm sm:text-base font-light">
-        Explorez les toiles de Sandrina Kinet à travers ses différentes périodes et recherches de matières. Chaque pièce est unique, réalisée à l'huile, pigments minéraux broyés et techniques mixtes sur toiles de lin de haute facture.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
       </p>
     </div>
 

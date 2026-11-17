@@ -52,7 +52,7 @@ function openRoomView(artwork: Artwork) {
       <div class="max-w-3xl mx-auto space-y-4">
         <span class="text-xs uppercase tracking-widest text-gold font-medium">Réflexion</span>
         <blockquote class="font-serif text-2xl sm:text-3xl text-ink-900 italic font-normal leading-relaxed">
-          « Peindre, c’est donner au temps une épaisseur palpable, un grain, une couleur qui résiste à l’oubli. »
+          « Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. »
         </blockquote>
         <cite class="block text-xs uppercase tracking-widest text-ink-500 not-italic">
           — Sandrina Kinet

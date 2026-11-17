@@ -19,18 +19,18 @@ import { Microscope, Palette, MapPin, Sparkles } from 'lucide-vue-next';
         </h1>
 
         <p class="text-base sm:text-lg text-gold-dark font-serif italic">
-          Chercheuse en biologie moléculaire & Artiste peintre à Montpellier
+          Lorem ipsum dolor sit amet &bull; Consectetur adipiscing elit
         </p>
 
         <div class="space-y-4 text-ink-700 leading-relaxed text-sm sm:text-base">
           <p>
-            Établie à Montpellier, Sandrina Kinet développe une pratique artistique singulière née à la frontière de deux mondes que l'on croit souvent opposés : la recherche biologique de pointe et la peinture contemporaine sur grand format.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
           </p>
           <p>
-            Docteure et chercheuse à l’<strong>Institut de Génétique Moléculaire de Montpellier (IGMM — CNRS / Université de Montpellier)</strong>, elle explore au quotidien l'intimité du vivant, la dynamique des cellules et les processus moléculaires invisibles à l’œil nu. Cette proximité constante avec les structures fondamentales de la vie a façonné son imaginaire visuel : la notion de perméabilité, la fragilité des membranes cellulaires, et par-dessus tout, <em>l'épaisseur du temps</em>.
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
           </p>
           <p>
-            Dans son atelier de Montpellier, elle transpose cette acuité scientifique dans le champ plastique. Le laboratoire exige rigueur et reproductibilité ; la toile offre l'espace de la liberté, du doute fertile et de la confrontation tactile avec la matière.
+            Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
           </p>
         </div>
       </div>
@@ -45,7 +45,7 @@ import { Microscope, Palette, MapPin, Sparkles } from 'lucide-vue-next';
           />
           <div class="absolute bottom-6 left-6 right-6 bg-paper-100/95 backdrop-blur-md p-4 rounded-sm border border-stone-subtle/80">
             <h3 class="font-serif text-lg text-ink-900 font-medium">Sandrina Kinet</h3>
-            <p class="text-xs text-ink-500">Dans son atelier &bull; Montpellier, France</p>
+            <p class="text-xs text-ink-500">Lorem ipsum &bull; Montpellier, France</p>
           </div>
         </div>
       </div>
@@ -56,7 +56,7 @@ import { Microscope, Palette, MapPin, Sparkles } from 'lucide-vue-next';
       <div class="max-w-3xl space-y-3">
         <span class="text-xs uppercase tracking-widest text-gold font-semibold">Le Manifeste Plastique</span>
         <h2 class="font-serif text-3xl text-ink-900 font-normal">
-          Le dialogue du microscope et du chevalet
+          Lorem ipsum dolor sit amet consectetur
         </h2>
       </div>
 
@@ -67,7 +67,7 @@ import { Microscope, Palette, MapPin, Sparkles } from 'lucide-vue-next';
           </div>
           <h3 class="font-serif text-xl text-ink-900 font-medium">L'Infiniment Petit</h3>
           <p class="text-xs text-ink-600 leading-relaxed">
-            Non pas une copie figurative de clichés de microscopie, mais une imprégnation sensorielle : flux intracellulaires, mitose, tensions de surface et gradients chimiques.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam sed nisi nulla quis sem.
           </p>
         </div>
 
@@ -77,7 +77,7 @@ import { Microscope, Palette, MapPin, Sparkles } from 'lucide-vue-next';
           </div>
           <h3 class="font-serif text-xl text-ink-900 font-medium">Pigments & Alchimie</h3>
           <p class="text-xs text-ink-600 leading-relaxed">
-            Utilisation d'huiles pures, d'ocres naturelles du Midi, de liants résineux et de sables. La superposition des couches crée une sédimentation physique et temporelle.
+            Fusce nec tellus sed augue semper porta. Mauris massa vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia.
           </p>
         </div>
 
@@ -87,7 +87,7 @@ import { Microscope, Palette, MapPin, Sparkles } from 'lucide-vue-next';
           </div>
           <h3 class="font-serif text-xl text-ink-900 font-medium">L'Épreuve du Temps</h3>
           <p class="text-xs text-ink-600 leading-relaxed">
-            Chaque toile exige des semaines, parfois des mois d'oxydation et de séchage. Le temps n'est pas seulement le thème des toiles ; il en est le co-auteur silencieux.
+            Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh aenean quam in scelerisque sem at dolor maecenas.
           </p>
         </div>
       </div>
@@ -174,7 +174,7 @@ import { Microscope, Palette, MapPin, Sparkles } from 'lucide-vue-next';
           Organiser une visite d'atelier
         </h3>
         <p class="text-stone-300 text-xs sm:text-sm max-w-xl">
-          Sandrina Kinet accueille sur rendez-vous les collectionneurs, directeurs de galeries et commissaires d'exposition dans son atelier de Montpellier.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
         </p>
       </div>
 

@@ -6,7 +6,7 @@ export const seriesList: Series[] = [
     nom: 'Au fil des temps',
     slug: 'au-fil-des-temps',
     periode: '2022 — Présent',
-    description: 'Série emblématique présentée à l’IGMM (Montpellier). Une traversée des temporalités intérieures, où la sédimentation des pigments dialogue avec les strates de la mémoire et les cycles du vivant.',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.',
     ordre: 1,
     couverture: 'https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?q=80&w=1200&auto=format&fit=crop'
   },
@@ -15,7 +15,7 @@ export const seriesList: Series[] = [
     nom: 'Résonances Cellulaires',
     slug: 'resonances-cellulaires',
     periode: '2020 — 2023',
-    description: 'Inspirée par le regard microscopique et l’observation biologique. Formes organiques en suspension, perméabilité des membranes et vibrations de la matière vivante.',
+    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.',
     ordre: 2,
     couverture: 'https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1200&auto=format&fit=crop'
   },
@@ -24,7 +24,7 @@ export const seriesList: Series[] = [
     nom: 'Horizons & Matières',
     slug: 'horizons-matiere',
     periode: '2019 — 2022',
-    description: 'Paysages intérieurs et géographies minérales du Midi. Ocres chaudes, terres d’ombre et transparences évoquant les collines méditerranéennes et la lumière languedocienne.',
+    description: 'Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis sed convallis.',
     ordre: 3,
     couverture: 'https://images.unsplash.com/photo-1579783902614-a3fb3927b675?q=80&w=1200&auto=format&fit=crop'
   },
@@ -33,7 +33,7 @@ export const seriesList: Series[] = [
     nom: 'Éclosions & Métamorphoses',
     slug: 'metamorphoses',
     periode: '2017 — 2020',
-    description: 'L’élan vital dans sa pure dynamique. Empâtements généreux, coulures contrôlées et jaillissements de lumière capturant l’instant fugace de la transformation.',
+    description: 'Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus.',
     ordre: 4,
     couverture: 'https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1200&auto=format&fit=crop'
   }

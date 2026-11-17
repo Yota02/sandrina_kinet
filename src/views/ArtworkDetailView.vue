@@ -246,7 +246,7 @@ function shareLink() {
           </router-link>
 
           <p class="text-[11px] text-ink-500 text-center leading-normal">
-            Certificat d'authenticité fourni signé par l'artiste Sandrina Kinet. Livraison soignée en caisse d'art ou remise en main propre à l'atelier de Montpellier.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero sed cursus ante dapibus.
           </p>
         </div>
       </div>

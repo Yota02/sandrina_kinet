@@ -15,8 +15,8 @@ const timelineMilestones = [
     serieId: 'au-fil-des-temps',
     titre: 'Au fil des temps — Sédimentation & Mémoire',
     sousTitre: 'Recherches sur l’épaisseur du temps et les pigments naturels',
-    description: 'Une phase de maturation où le tableau devient une géologie sensible. Sandrina Kinet privilégie les toiles de lin brut non blanchies et superpose des couches successives d’huiles et de terres naturelles.',
-    quote: '« Laisser la matière respirer et se déposer comme les sédiments au fond des eaux calmes. »',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    quote: '« Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. »',
     atelierImage: 'https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?q=80&w=1200&auto=format&fit=crop',
     focusArtworks: artworksList.filter(a => a.serie_id === 'au-fil-des-temps')
   },
@@ -25,8 +25,8 @@ const timelineMilestones = [
     serieId: 'resonances-cellulaires',
     titre: 'Résonances Cellulaires — L’Écho Biologique',
     sousTitre: 'Dialogue avec l’IGMM (Institut de Génétique Moléculaire de Montpellier)',
-    description: 'Période marquée par l’exposition emblématique au sein du pôle CNRS de Montpellier. Les structures cellulaires, les membranes perméables et la mitose inspirent des toiles d’une intense vibration poétique.',
-    quote: '« Les formes du vivant ne sont pas figées ; elles palpitent, se divisent et se régénèrent. »',
+    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+    quote: '« Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. »',
     atelierImage: 'https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1200&auto=format&fit=crop',
     focusArtworks: artworksList.filter(a => a.serie_id === 'resonances-cellulaires')
   },
@@ -35,8 +35,8 @@ const timelineMilestones = [
     serieId: 'horizons-matiere',
     titre: 'Horizons & Matières — La Minéralité du Midi',
     sousTitre: 'Terres d’ocres, calcaires et lumière languedocienne',
-    description: 'Inspirée par les paysages âpres et lumineux de l’Occitanie, de la garrigue aux rivages méditerranéens. L’artiste intègre des matières minérales broyées et du sable fin pour conférer au tableau un relief tactile.',
-    quote: '« La roche réchauffée par le soleil du Sud garde la chaleur du jour bien après le crépuscule. »',
+    description: 'Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis sed convallis tristique sem.',
+    quote: '« Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor pellentesque nibh. »',
     atelierImage: 'https://images.unsplash.com/photo-1579783902614-a3fb3927b675?q=80&w=1200&auto=format&fit=crop',
     focusArtworks: artworksList.filter(a => a.serie_id === 'horizons-matiere')
   },
@@ -45,8 +45,8 @@ const timelineMilestones = [
     serieId: 'metamorphoses',
     titre: 'Éclosions & Métamorphoses — L’Élan Vital',
     sousTitre: 'Gestuelle fluide et premières explorations abstraites',
-    description: 'Les prémices de la démarche : un travail approfondi sur la fluidité des huiles, les contrastes d’opacité et de transparence, capturant l’instant charnière où une forme émerge du néant.',
-    quote: '« Le premier geste est toujours un acte d’abandon à l’inconnu. »',
+    description: 'Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.',
+    quote: '« Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi aenean fermentum. »',
     atelierImage: 'https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1200&auto=format&fit=crop',
     focusArtworks: artworksList.filter(a => a.serie_id === 'metamorphoses')
   }
@@ -65,7 +65,7 @@ const timelineMilestones = [
         Parcours « Au fil des temps »
       </h1>
       <p class="text-ink-700 leading-relaxed text-sm sm:text-base font-light">
-        Parcourez l’évolution stylistique et intellectuelle de Sandrina Kinet. De la première étincelle gestuelle jusqu’aux grandes sédimentations de pigments actuelles, découvrez comment la recherche biologique et l'expérimentation picturale s’entremêlent au fil des années.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
       </p>
     </div>
 
@@ -142,7 +142,7 @@ const timelineMilestones = [
                 class="w-full h-48 object-cover rounded-sm filter brightness-95"
               />
               <span class="block text-[11px] text-ink-500 mt-2 text-center uppercase tracking-wider">
-                Recherche visuelle & ambiance d’atelier
+                Lorem ipsum &bull; Ambiance d’atelier
               </span>
             </div>
           </div>

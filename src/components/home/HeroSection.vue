@@ -35,7 +35,7 @@ const emit = defineEmits<{
           </h1>
 
           <p class="text-base sm:text-lg text-ink-700/90 font-light leading-relaxed max-w-lg">
-            Entre rigueur scientifique et lâcher-prise chromatique, Sandrina Kinet explore les strates du vivant, la mémoire cellulaire et l’impermanence à travers des toiles aux pigments bruts et empâtements sensibles.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi nulla quis sem at nibh elementum imperdiet.
           </p>
         </div>
 
@@ -63,7 +63,7 @@ const emit = defineEmits<{
             <Sparkles class="w-4 h-4 text-gold" />
           </div>
           <p>
-            Exposition inaugurale « Au fil des temps » accueillie à l’Institut de Génétique Moléculaire de Montpellier (IGMM).
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit &bull; Institut de Génétique Moléculaire (IGMM).
           </p>
         </div>
       </div>

@@ -16,7 +16,7 @@ import { ArrowRight, Microscope, Palette, Clock } from 'lucide-vue-next';
             />
             <div class="absolute bottom-6 left-6 right-6 bg-paper-100/95 backdrop-blur-md p-4 rounded-sm border border-stone-subtle/80 text-xs">
               <p class="font-serif italic text-ink-900 text-sm">
-                « La peinture commence là où la formule biologique cède le pas au silence de la matière. »
+                « Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore. »
               </p>
               <span class="block text-[11px] text-ink-500 uppercase tracking-widest mt-1">
                 Atelier de création &bull; Montpellier
@@ -33,15 +33,15 @@ import { ArrowRight, Microscope, Palette, Clock } from 'lucide-vue-next';
           </div>
 
           <h2 class="font-serif text-3xl sm:text-4xl text-ink-900 leading-snug font-normal">
-            Le double regard : la précision du vivant et l'effervescence de la toile.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </h2>
 
           <p class="text-ink-700 leading-relaxed text-sm sm:text-base">
-            Chercheuse en biologie à l'Institut de Génétique Moléculaire de Montpellier (IGMM), Sandrina Kinet côtoie au quotidien les mécanismes intimes de la cellule, les flux de macromolécules et la fugacité des états d'équilibre. 
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
           </p>
 
           <p class="text-ink-700 leading-relaxed text-sm sm:text-base">
-            Dans son atelier, ce regard scientifique se métamorphose. Les protocoles rigoureux s'effacent devant la densité des huiles, les transparences de glacis et les sédimentations de pigments purs. Chaque tableau est une traversée du temps géologique et organique, un écho poétique aux mystères qui animent chaque particule vivante.
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error.
           </p>
 
           <!-- 3 Pillares -->
@@ -52,7 +52,7 @@ import { ArrowRight, Microscope, Palette, Clock } from 'lucide-vue-next';
                 <span>Temporalité</span>
               </div>
               <p class="text-xs text-ink-500 leading-normal">
-                Sédimentation lente, séchage des huiles et mémoires inscrites au fil des temps.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod.
               </p>
             </div>
 
@@ -62,7 +62,7 @@ import { ArrowRight, Microscope, Palette, Clock } from 'lucide-vue-next';
                 <span>Organique</span>
               </div>
               <p class="text-xs text-ink-500 leading-normal">
-                Membranes semi-perméables, résonances cellulaires et dynamique mitotique.
+                Ut enim ad minim veniam quis nostrud exercitation ullamco laboris.
               </p>
             </div>
 
@@ -72,7 +72,7 @@ import { ArrowRight, Microscope, Palette, Clock } from 'lucide-vue-next';
                 <span>Matière pure</span>
               </div>
               <p class="text-xs text-ink-500 leading-normal">
-                Pigments naturels, toiles de lin brut et empâtements minéraux au couteau.
+                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
               </p>
             </div>
           </div>

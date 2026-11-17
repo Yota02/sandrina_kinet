@@ -16,7 +16,7 @@ function scrollToTop() {
             SANDRINA KINET
           </h3>
           <p class="text-sm text-ink-500 max-w-md leading-relaxed">
-            Artiste peintre et chercheuse en biologie à Montpellier. Son travail plastique explore les sédimentations du temps, les résonances cellulaires et la matière vivante à travers une palette de pigments naturels, d’huiles et de textures organiques.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
           </p>
           <div class="flex items-center gap-2 text-xs text-ink-500 pt-2">
             <MapPin class="w-4 h-4 text-gold flex-shrink-0" />

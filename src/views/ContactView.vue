@@ -82,7 +82,7 @@ async function handleSubmit() {
         Échanger avec l'artiste
       </h1>
       <p class="text-ink-700 leading-relaxed text-sm sm:text-base font-light">
-        Pour toute demande relative à l’acquisition d’une œuvre originale, une commande spécifique, une proposition d’exposition en galerie ou l’organisation d’une visite d’atelier à Montpellier.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
       </p>
     </div>
 
@@ -254,7 +254,7 @@ async function handleSubmit() {
             L'Atelier de Montpellier
           </h3>
           <p class="text-sm text-ink-600 leading-relaxed">
-            Situé au cœur de la métropole montpelliéraine, l'atelier est un espace de création et de dialogue. Les visites s'organisent en toute intimité pour contempler les toiles à la lumière naturelle.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero sed cursus ante dapibus diam sed nisi nulla quis sem.
           </p>
 
           <div class="space-y-3 pt-3 border-t border-stone-subtle text-xs text-ink-700">
@@ -262,7 +262,7 @@ async function handleSubmit() {
               <MapPin class="w-4 h-4 text-gold flex-shrink-0 mt-0.5" />
               <div>
                 <strong class="text-ink-900 block font-semibold">Localisation</strong>
-                <span>Quartier Recherche & Hôpitaux / Faculté &bull; Montpellier, France</span>
+                <span>Lorem ipsum dolor &bull; Montpellier, France</span>
               </div>
             </div>
 
@@ -270,7 +270,7 @@ async function handleSubmit() {
               <Sparkles class="w-4 h-4 text-gold flex-shrink-0 mt-0.5" />
               <div>
                 <strong class="text-ink-900 block font-semibold">Conditions d'Acquisition</strong>
-                <span>Certificat d'authenticité inclus &bull; Expédition sécurisée internationale ou remise en main propre.</span>
+                <span>Lorem ipsum dolor sit amet &bull; Consectetur adipiscing elit.</span>
               </div>
             </div>
           </div>
